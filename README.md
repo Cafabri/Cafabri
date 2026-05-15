@@ -60,16 +60,5 @@ Feel free to reach out for collaborations or networking!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CarlosFalconBrito)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosbch021@gmail.com)
 
----
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Cafabri&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Cafabri&style=for-the-badge&color=0e75b6)](https://github.com/Cafabri)
